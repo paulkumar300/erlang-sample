@@ -1,0 +1,9 @@
+-sname cloud_backup_client
+
+-setcookie cloud_backup_client_cookie
+
+-cloud_backup_client ip_address '"localhost"'
+-cloud_backup_client port_number 5678
+
++K true
++A30
